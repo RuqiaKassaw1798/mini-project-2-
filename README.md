@@ -53,7 +53,7 @@ This is a **simple personal profile webpage** created using **HTML and CSS**. It
 
 ---
 
-## screenshot
+## profile
 ![Screenshot](https://github.com/RuqiaKassaw1798/mini-project-2-/blob/main/coder.jpg)
 
 ---
